@@ -1,0 +1,13 @@
+{
+  "name": "usb-mixer-example",
+  "version": "1.0.0",
+  "description": "Example application to test the USB Mixer Node.js addon.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
+
